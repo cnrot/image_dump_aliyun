@@ -30,3 +30,4 @@ pengzhile/new-api
 calciumion/new-api-horizon
 voapi/voapi
 justsong/wechat-server
+lee1080/cfstddns:latest
