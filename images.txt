@@ -33,3 +33,4 @@ justsong/wechat-server
 lee1080/cfstddns:latest
 ghcr.io/martialbe/one-api
 ghcr.io/open-webui/mcpo:main
+ghcr.io/cinnamon/kotaemon:main-full
