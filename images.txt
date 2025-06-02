@@ -33,5 +33,3 @@ lee1080/cfstddns:latest
 ghcr.io/martialbe/one-api
 ghcr.io/open-webui/mcpo:main
 ghcr.io/cinnamon/kotaemon:main-full
-docker.all-hands.dev/all-hands-ai/openhands
-docker.all-hands.dev/all-hands-ai/runtime
