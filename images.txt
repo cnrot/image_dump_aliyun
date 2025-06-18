@@ -34,3 +34,7 @@ ghcr.io/martialbe/one-api
 ghcr.io/open-webui/mcpo:main
 ghcr.io/cinnamon/kotaemon:main-full
 envyafish/byte-muse
+icodex/edge-admin:1.3.9
+icodex/edge-node:1.3.9
+icodex/edge-user:1.3.9
+icodex/edge-dns:1.3.9
