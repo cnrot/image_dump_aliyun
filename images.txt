@@ -43,3 +43,4 @@ mdcng/mdc:latest            # MDC-NG 老师教材刮削 闭源 Telegram发布频
 chris2s/tissue:latest            # Tissue 老师教材刮削 开源 https://github.com/chris-2s/tissue
 suwmlee/bonita:latest            # Bonita https://github.com/Suwmlee/bonita
 suwmlee/ikaros:latest            # ikaros https://github.com/Suwmlee/ikaros
+ghcr.io/su-kaka/gcli2api:latest               # GCLI2API   https://github.com/su-kaka/gcli2api
