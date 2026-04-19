@@ -1,15 +1,9 @@
-  whyour/qinglong:latest
-jeessy/ddns-go:latest
 gdy666/lucky:latest
-snowdreamtech/frpc:latest
-snowdreamtech/frps:latest
 php:latest
 node:latest
 python:latest
 haxe:latest
-xhofe/alist:latest
 6053537/portainer-ce:latest
-bitnami/minio:latest
 b3log/siyuan:latest
 networkstatic/iperf3:latest
 ghcr.io/gchq/cyberchef:latest
@@ -24,14 +18,8 @@ dockurr/macos
 dockurr/windows
 zzzshanghai/doube-itv
 xxxsen/yamdc
-ghcr.io/open-webui/open-webui:main
-calciumion/new-api
-pengzhile/new-api
-calciumion/new-api-horizon
 justsong/wechat-server
 lee1080/cfstddns:latest
-ghcr.io/martialbe/one-api
-ghcr.io/open-webui/mcpo:main
 ghcr.io/cinnamon/kotaemon:main-full
 envyafish/byte-muse
 icodex/edge-admin:1.3.9
